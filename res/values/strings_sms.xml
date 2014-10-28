@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="action_sms">SMS</string>
+	<string name="screen">Texting</string>
+	<string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="texting_correct">Correct!</string>
+	<string name="texting_answer">The correct answer is </string>
+	<string name="send_text_button">Send Text Message</string>
+	<string name="refrigerator">Refrigerator A</string>
+	<string name="sms_training">SMS Training</string>
+</resources>

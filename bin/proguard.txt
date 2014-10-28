@@ -1,0 +1,54 @@
+# view AndroidManifest.xml #generated:42
+-keep class com.uwcse.morepractice.ChooseLanguage { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class com.uwcse.morepractice.CustomTags { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.uwcse.morepractice.DownloadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.uwcse.morepractice.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.uwcse.morepractice.QuizActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.uwcse.morepractice.SMSActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.uwcse.morepractice.Single { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.uwcse.morepractice.Splash { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.uwcse.morepractice.Topic { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.uwcse.morepractice.TrainingPackageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:56
+-keep class com.uwcse.morepractice.TrainingPackageNavigation { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.uwcse.morepractice.TrainingPackageTopics { <init>(...); }
+
+# view AndroidManifest.xml #generated:52
+-keep class com.uwcse.morepractice.VideoActivity { <init>(...); }
+
+# onClick res/layout/activity_quiz.xml #generated:106
+# onClick res/layout/activity_quiz.xml #generated:60
+# onClick res/layout/activity_quiz.xml #generated:70
+# onClick res/layout/activity_quiz.xml #generated:79
+# onClick res/layout/activity_quiz.xml #generated:88
+# onClick res/layout/activity_training_navigation.xml #generated:18
+# onClick res/layout/activity_training_topics.xml #generated:20
+# onClick res/layout/activity_training_topics.xml #generated:33
+# onClick res/layout/activity_training_topics.xml #generated:46
+# onClick res/layout/activity_training_topics.xml #generated:59
+-keepclassmembers class * { *** buttonOnClick(...); }
+
+# onClick res/layout/fragment_main.xml #generated:16
+-keepclassmembers class * { *** downloadFile(...); }
+
